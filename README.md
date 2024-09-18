@@ -15,4 +15,4 @@ A simple homepage for Yalla Kids created using HTML, CSS, and JavaScript.
 
 ### Preview
 
-You can visit this homepage from [here](http://github.io/mehrabbahramian/yalla-kids-homepage)!
+You can visit this homepage from [here](https://mehrabbahramian.github.io/yalla-kids-homepage/)!
